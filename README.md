@@ -1,5 +1,7 @@
 ### ABC-анализ.
-[Полный анализ](https://github.com/RomanD83/ABC-XYZ-analysis/blob/main/ABC-XYZ.pdf)
+1. [Полный анализ (pdf)](https://github.com/RomanD83/ABC-XYZ-analysis/blob/main/ABC-XYZ.pdf)
+2. [Анализ (.sql)](https://github.com/RomanD83/ABC-XYZ-analysis/blob/main/ABC-XYZ.sql)
+3. [Исходные данные](https://github.com/RomanD83/ABC-XYZ-analysis/blob/main/sales_202401031957.csv)
 
   ABC-анализ — это метод классификации и сегментации ассортимента товаров или клиентов на основе их значимости или важности для бизнеса. Он получил название "ABC" по первым буквам английских терминов: "A" означает наиболее значимые или критически важные элементы, "B" — средне значимые, а "C" — наименее значимые или не критические.
 
